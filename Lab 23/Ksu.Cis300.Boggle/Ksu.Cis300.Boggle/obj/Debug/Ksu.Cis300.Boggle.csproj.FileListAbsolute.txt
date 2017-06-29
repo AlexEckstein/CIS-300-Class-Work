@@ -1,0 +1,9 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\bin\Debug\Ksu.Cis300.Boggle.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\bin\Debug\Ksu.Cis300.Boggle.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\bin\Debug\Ksu.Cis300.Boggle.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\obj\Debug\Ksu.Cis300.Boggle.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\obj\Debug\Ksu.Cis300.Boggle.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\obj\Debug\Ksu.Cis300.Boggle.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\obj\Debug\Ksu.Cis300.Boggle.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\obj\Debug\Ksu.Cis300.Boggle.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 23\Ksu.Cis300.Boggle\Ksu.Cis300.Boggle\obj\Debug\Ksu.Cis300.Boggle.pdb

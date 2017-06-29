@@ -1,0 +1,10 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 10\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\bin\Debug\Ksu.Cis300.LinkedListLibrary.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 10\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\bin\Debug\Ksu.Cis300.LinkedListLibrary.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 10\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\obj\Debug\Ksu.Cis300.LinkedListLibrary.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 10\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\obj\Debug\Ksu.Cis300.LinkedListLibrary.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 10\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\obj\Debug\Ksu.Cis300.LinkedListLibrary.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 11\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\bin\Debug\Ksu.Cis300.LinkedListLibrary.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 11\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\bin\Debug\Ksu.Cis300.LinkedListLibrary.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 11\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\obj\Debug\Ksu.Cis300.LinkedListLibrary.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 11\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\obj\Debug\Ksu.Cis300.LinkedListLibrary.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 11\Ksu.Cis300.LinkedListLibrary\Ksu.Cis300.LinkedListLibrary\obj\Debug\Ksu.Cis300.LinkedListLibrary.pdb

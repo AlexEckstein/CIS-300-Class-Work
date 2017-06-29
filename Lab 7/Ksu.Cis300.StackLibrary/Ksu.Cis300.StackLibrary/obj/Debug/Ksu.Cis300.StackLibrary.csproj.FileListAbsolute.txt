@@ -1,0 +1,5 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 7\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary\bin\Debug\Ksu.Cis300.StackLibrary.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 7\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary\bin\Debug\Ksu.Cis300.StackLibrary.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 7\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary\obj\Debug\Ksu.Cis300.StackLibrary.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 7\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary\obj\Debug\Ksu.Cis300.StackLibrary.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 7\Ksu.Cis300.StackLibrary\Ksu.Cis300.StackLibrary\obj\Debug\Ksu.Cis300.StackLibrary.pdb

@@ -1,0 +1,12 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\bin\Debug\Ksu.Cis300.ParenthesisMatcher.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\bin\Debug\Ksu.Cis300.ParenthesisMatcher.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\bin\Debug\Ksu.Cis300.ParenthesisMatcher.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Homework 1\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 6\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\bin\Debug\Ksu.Cis300.ParenthesisMatcher.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 6\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 6\Ksu.Cis300.ParenthesisMatcher\Ksu.Cis300.ParenthesisMatcher\obj\Debug\Ksu.Cis300.ParenthesisMatcher.pdb

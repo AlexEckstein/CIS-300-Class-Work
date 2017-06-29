@@ -1,0 +1,9 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\bin\Debug\Ksu.Cis300.TextEditor.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 3\Ksu.Cis300.TextEditor\Ksu.Cis300.TextEditor\obj\Debug\Ksu.Cis300.TextEditor.pdb

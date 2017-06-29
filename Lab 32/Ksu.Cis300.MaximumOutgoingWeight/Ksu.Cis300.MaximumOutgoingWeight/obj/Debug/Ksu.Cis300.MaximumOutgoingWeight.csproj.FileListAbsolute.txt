@@ -1,0 +1,10 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\bin\Debug\Ksu.Cis300.MaximumOutgoingWeight.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\bin\Debug\Ksu.Cis300.MaximumOutgoingWeight.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\bin\Debug\Ksu.Cis300.MaximumOutgoingWeight.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\bin\Debug\Ksu.Cis300.Graphs.dll
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\obj\Debug\Ksu.Cis300.MaximumOutgoingWeight.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\obj\Debug\Ksu.Cis300.MaximumOutgoingWeight.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\obj\Debug\Ksu.Cis300.MaximumOutgoingWeight.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\obj\Debug\Ksu.Cis300.MaximumOutgoingWeight.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\obj\Debug\Ksu.Cis300.MaximumOutgoingWeight.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 32\Ksu.Cis300.MaximumOutgoingWeight\Ksu.Cis300.MaximumOutgoingWeight\obj\Debug\Ksu.Cis300.MaximumOutgoingWeight.pdb

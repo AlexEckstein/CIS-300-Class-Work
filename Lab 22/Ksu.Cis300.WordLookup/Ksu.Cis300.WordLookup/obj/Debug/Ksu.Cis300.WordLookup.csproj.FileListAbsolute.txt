@@ -1,0 +1,9 @@
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\bin\Debug\Ksu.Cis300.WordLookup.exe.config
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\bin\Debug\Ksu.Cis300.WordLookup.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\bin\Debug\Ksu.Cis300.WordLookup.pdb
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\obj\Debug\Ksu.Cis300.WordLookup.csprojResolveAssemblyReference.cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\obj\Debug\Ksu.Cis300.WordLookup.Properties.Resources.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\obj\Debug\Ksu.Cis300.WordLookup.UserInterface.resources
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\obj\Debug\Ksu.Cis300.WordLookup.csproj.GenerateResource.Cache
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\obj\Debug\Ksu.Cis300.WordLookup.exe
+C:\Users\howell\Source\Workspaces\Rod Howell CIS 300 Fall 2016\Lab 22\Ksu.Cis300.WordLookup\Ksu.Cis300.WordLookup\obj\Debug\Ksu.Cis300.WordLookup.pdb
